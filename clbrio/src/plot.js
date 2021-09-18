@@ -1,0 +1,1 @@
+Plotly.newPlot('plotly', data, layout)
